@@ -1,1 +1,2 @@
 # Student-Score-Analysis
+student scores analysis project, I utilized Matplotlib, NumPy, Pandas, and Seaborn libraries to examine the factors influencing student performance. The analysis focused on high and low scores in relation to variables such as parental education, single-parent status, number of siblings and students' studying hours. I then visualized these relationships to provide insights into how these socio-economic factors impact academic outcomes.
